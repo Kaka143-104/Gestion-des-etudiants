@@ -1,0 +1,9 @@
+1- La difference entre html et css
+    html (hypertext markup language) permet la structure de structurer une page web ,indiquer au navigateur ce qui est le titre,le paragraphe ou un retour a la ligne sur votre page .
+    Le css (cascading stylesheet)lui permet la mise en forme de notre page web ,il permet d'appliquer des couleurs et de donner une forme à notre page.
+
+2-Display :flex permet  de mettre les element les uns à coté des autres horizontalement
+
+3- Margin est la marge exterieur de notre boite tandisque padding est la marge interieur de notre boite.
+
+4- c'est le display :flex.
